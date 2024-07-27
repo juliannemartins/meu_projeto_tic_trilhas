@@ -1,4 +1,4 @@
 
-multiplica(a,b){
+soma(a,b){
     return a + b;
 }
