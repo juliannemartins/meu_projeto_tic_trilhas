@@ -1,4 +1,4 @@
 
-soma(a,b){
+adicao(a,b){
     return a + b;
 }
