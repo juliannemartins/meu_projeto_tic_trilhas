@@ -1,4 +1,4 @@
 
-soma_de_dois_numeros(a,b){
+adicao(a,b){
     return a + b;
 }
